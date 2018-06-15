@@ -5,12 +5,12 @@ var name = "Joe"
 var height = "74"
 
 if((name = "Susan") === "Susan"){
-  console.log("")
+  
 }else {
   console.log("check your spelling")
 }
 if((height = "70") === "70"){
-  console.log("")
+  
 }else{
   console.log("enter height correctly")
 }
