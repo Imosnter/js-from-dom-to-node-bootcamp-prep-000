@@ -16,4 +16,3 @@ if(height === 70){
 }
 //dont worry about this for now
 module.exports = {name, height}
-
