@@ -7,7 +7,7 @@ if(name.name === "Susan"){
   console.log("Expected: Susan" + ", " + "Received " + name.name )
 }
 
-if(height.height === 74){
+if(height.height === "74"){
   console.log("Height is correct")
 }else{
   console.log("Expected: 70" + ", " + "Received " + height.height)
