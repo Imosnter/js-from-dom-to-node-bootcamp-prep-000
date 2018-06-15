@@ -5,7 +5,7 @@ var name = "Joe"
 var height = 74
 
 if((name = "Susan") === "Susan"){
-console.log()
+return ""
 }else {
   console.log("check your spelling")
 }
