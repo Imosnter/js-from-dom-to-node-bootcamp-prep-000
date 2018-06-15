@@ -1,4 +1,4 @@
-var {name, height} = require("./index.js")
+var index = {name, height} = require("./index.js")
 // var height = require("./index.js")
 
 if(name.name === "Susan"){
