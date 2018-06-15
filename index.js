@@ -9,7 +9,7 @@ if(name === "Susan"){
 }else {
   console.log("check your spelling")
 }
-if(height === "74"){
+if(height === "70"){
   console.log("")
 }else{
   console.log("enter height correctly")
